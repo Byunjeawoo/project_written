@@ -7,6 +7,7 @@ ___
 - pip install matplotlib
 - pip install pytesseract
 - conda install -c conda-forge tesseract
+- conda install -c conda-forge pytesseract
 ```python
 import cv2
 import numpy as np
